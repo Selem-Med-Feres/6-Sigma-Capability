@@ -1,0 +1,20 @@
+{
+    "name": "feres-jihen/test-chi-deux",
+    "description": "Projet MSQ | 3-GSIL-QM 2022-2023",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Php\\": "./assets/php"
+        }
+    },
+    "authors": [
+        {
+            "name": "Selem Med Feres - Marai Jihen"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpoffice/phpspreadsheet": "dev-master",
+        "markrogoyski/math-php": "2.6"
+    }
+}
